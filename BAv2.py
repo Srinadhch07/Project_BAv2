@@ -26,7 +26,7 @@ listen_news=["https://youtube.com/@etvtelangana",
 "https://youtube.com/@V6NewsTelugu"]
 
 
-genai.configure(api_key="AIzaSyD9a47SJ5kKfmMKpX8A2c5ox_CsYp_E52o")
+genai.configure(api_key="Your API key here")
 # Set up the model
 generation_config = {
   "temperature": 0.9,
